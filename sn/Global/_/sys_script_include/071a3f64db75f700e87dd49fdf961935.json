@@ -1,0 +1,24 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "global.si55",
+  "caller_access": null,
+  "client_callable": false,
+  "description": null,
+  "name": "si55",
+  "script": {
+    "____see": "sn\\Global\\Script Include\\active_true\\global.si55.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-30 22:07:05",
+  "sys_id": "071a3f64db75f700e87dd49fdf961935",
+  "sys_mod_count": 0,
+  "sys_name": "si55",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_include_071a3f64db75f700e87dd49fdf961935",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-30 22:07:05"
+}
