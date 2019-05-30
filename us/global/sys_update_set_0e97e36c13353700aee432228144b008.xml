@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-05-30 20:47:02">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>wintest 2</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>0e97e36c13353700aee432228144b008</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-05-30 20:47:01</sys_created_on>
+<sys_id>41d72f2813353700aee432228144b068</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-05-30 20:47:01</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_d5a7276c13353700aee432228144b00e</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.newone&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;newone&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var newone = Class.create();
+newone.prototype = {
+    initialize: function() {
+    },
+
+    type: 'newone'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-05-30 20:46:22&lt;/sys_created_on&gt;&lt;sys_id&gt;d5a7276c13353700aee432228144b00e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;newone&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_d5a7276c13353700aee432228144b00e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-05-30 20:46:22&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-227084126</payload_hash>
+<remote_update_set display_value="wintest 2">41d72f2813353700aee432228144b068</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-05-30 20:47:01</sys_created_on>
+<sys_id>05d72f2813353700aee432228144b068</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b0a7e5def0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-05-30 20:47:01</sys_updated_on>
+<table/>
+<target_name>newone</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>afa7e36c7d353700ed720d87ef1cb2ee</update_guid>
+<update_guid_history>afa7e36c7d353700ed720d87ef1cb2ee:-227084126</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
