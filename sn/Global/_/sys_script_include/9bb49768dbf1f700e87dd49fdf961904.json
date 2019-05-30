@@ -1,0 +1,24 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "global.addsub",
+  "caller_access": null,
+  "client_callable": false,
+  "description": null,
+  "name": "addsub",
+  "script": {
+    "____see": "sn\\Global\\Script Include\\active_true\\global.addsub.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-30 19:23:43",
+  "sys_id": "9bb49768dbf1f700e87dd49fdf961904",
+  "sys_mod_count": 0,
+  "sys_name": "addsub",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_include_9bb49768dbf1f700e87dd49fdf961904",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-30 19:23:43"
+}
