@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "incident",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "fred.luddy",
+  "sys_created_on": "2004-07-14 19:25:13",
+  "sys_id": "bf1d96e3c0a801640190725e63f8ac80",
+  "sys_mod_count": 0,
+  "sys_name": "incident",
+  "sys_package": "9a35797113d32300aee432228144b009",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_section_bf1d96e3c0a801640190725e63f8ac80",
+  "sys_updated_by": "system_bootstrap",
+  "sys_updated_on": "2004-12-13 18:05:34",
+  "title": true,
+  "view": "Default view",
+  "view_name": null
+}
